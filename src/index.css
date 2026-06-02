@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Iceland&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Iceland&display=swap');
+
+@import "tailwindcss";
+
+:root {
+  --bg: #0b0b0b;
+  --surface: #121212;
+  --gold: #c6a15b;
+  --text: #f5f5f5;
+  --muted: #a6a6a6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  overflow-x: hidden;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+#root {
+  min-height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+}
+
+p,
+a,
+button,
+span,
+li {
+  font-family: 'Inter', sans-serif;
+}
+
+::selection {
+  background: var(--gold);
+  color: black;
+}
+
