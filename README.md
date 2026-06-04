@@ -1,5 +1,3 @@
-# <p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/lucide-react/lucide/main/icons/gem.svg" width="60" alt="Veridion Logo" /></a></p>
-
 <h1 align="center">VERIDION</h1>
 
 <p align="center" style="font-size: 1.2rem; font-style: italic; color: #c6a15b; letter-spacing: 0.35em; text-transform: uppercase;">
