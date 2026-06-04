@@ -24,6 +24,8 @@
 ## ✨ Design Philosophy & Brand Core
 
 > *"Time Takes Everything. Except Class."*
+> <img width="1918" height="1089" alt="Screenshot 2026-06-02 222656" src="https://github.com/user-attachments/assets/d03ba828-7058-4906-8d60-002f9afa08ac" />
+
 
 Veridion crafts timepieces for those who appreciate the value of time and the art of true craftsmanship. This landing page is meticulously designed to reflect the luxury, sophistication, and meticulous detail of high-end horology. 
 
